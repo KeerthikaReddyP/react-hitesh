@@ -18,7 +18,7 @@ function App() {
       <h2>body {counter}</h2>
       <button onClick={handleAdd}>Add</button>
       <button>Remove</button>
-      <p>footer: {counter}</p>
+      <p>footer:  {counter}</p>
     </>
   )
 }
