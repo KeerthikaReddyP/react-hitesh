@@ -55,7 +55,7 @@ function App() {
 
         {copied && (
           <div className="absolute right-8 top-6 mt-2 bg-green-600 text-green-200 p-1 rounded text-sm">
-            ✓ Copied!
+            ✓Copied!
           </div>
         )}
       </div>
