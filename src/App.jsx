@@ -37,6 +37,7 @@ function App() {
   return (
     <div className="m-4 flex flex-col items-center">
       <h1 className="font-bold text-2xl p-2">Password Generator</h1>
+      <h4>tadatadatadatadatadatadatadatada</h4>
 
       <div className="m-2 flex justify-between overflow-hidden border border-black rounded-full w-1/4">
         <input
@@ -55,7 +56,7 @@ function App() {
 
         {copied && (
           <div className="absolute right-8 top-6 mt-2 bg-green-600 text-green-200 p-1 rounded text-sm">
-            ✓ Copied!
+            ✓Copied!
           </div>
         )}
       </div>
